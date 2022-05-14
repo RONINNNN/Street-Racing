@@ -2,7 +2,7 @@ body {
     height: 100%;
     width: 100%;
     margin: 0;
-    background-image: url("../image/1.jpg");
+    background-image: url("../image/kusl game wlppr.png");
     font-family: sans-serif;
 }
 
@@ -167,6 +167,8 @@ body {
     text-align: center;
     font-size: 20px;
     font-style: italic;
+    color: white;
+    margin-left: -90px;
 }
 #donate{
     position: absolute;
